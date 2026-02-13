@@ -13,4 +13,4 @@ Visualización de distribuciones y outliers
 Segmentación de clientes
 Insight para Stakeholders
 # Como ejecutar el notebook en GoogleColab
-https://colab.research.google.com/drive/1HmIchCEg57AfR-GwPtUd5v1-PIabFDOC?usp=sharing
+[![Open In Colab](https://colab.research.google.com/drive/1HmIchCEg57AfR-GwPtUd5v1-PIabFDOC?usp=sharing)](URL_DEL_NOTEBOOK_EN_GITHUB)
