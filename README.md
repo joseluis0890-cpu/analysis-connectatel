@@ -14,4 +14,4 @@ Segmentación de clientes
 Insight para Stakeholders
 # Como ejecutar el notebook en GoogleColab
 
-[![Open In Colab](https://colab.research.google.com/drive/1Zy7r72MP5HvYAOpys-hCcBkvdgVysVb_?usp=sharing)](https://github.com/joseluis0890-cpu/analysis-connectatel/blob/main/Analysis-ConnectaTel.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1Zy7r72MP5HvYAOpys-hCcBkvdgVysVb_?usp=sharing)](Analysis-ConnectaTel.ipynb)
